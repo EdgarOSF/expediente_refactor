@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	margin:0px;
+	padding:0px;
+	}
+ body {
+      
+         background: #3c8dbc;
+      }
+	  
+/*login*/	  
+.boxlogin{
+	margin: 0 auto;
+	width: 320px;
+	 
+    }
+.form-signin {
+        max-width: 300px;
+        
+        margin: 0 auto;
+        -webkit-border-radius: 3px;
+           -moz-border-radius: 3px;
+                border-radius: 3px;
+        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+                box-shadow: 0 1px 2px rgba(0,0,0,.05);
+      }
+input[type="submit"]{
+    margin-top: 20px;
+	}
+
+/*home*/
+.navbar{
+	background-color:#000;
+	height:50px;}
+.buscar{float:right;
+padding-top:10px;
+padding-right:15px;}
+
+.adaptar{width:100%;
+         margin-top:10px;}
+	
+.columna{
+	margin-top:20px;
+	margin-left:10px;
+	width:20%;
+	height:100%;}
+.btn-primary{background:#1967be;}
+
+/*persona*/
+
